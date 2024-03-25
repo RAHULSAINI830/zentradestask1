@@ -10,7 +10,8 @@ Tasks Completed in manner:
 3. Sorting and Displaying: Created an array of product objects. Sorted the products based on descending popularity.
 4. Data Presentation: Dynamically populated an HTML table with the sorted product information(descending manner). Used a try-catch block to handle errors during the fetch operation.
 
-![image](https://github.com/Bhavishaya-Bansal/ZenTrades-Task1/assets/100150088/b0eb7e41-6168-4f40-8d85-1ecdccfb207d)
+![image](https://github.com/RAHULSAINI830/zentradestask1/assets/96569692/d660f7f6-053f-49d5-9278-c7d585112be6)
+
 
 The data in the presentation is oredered on the basis of descending 'popularity'.
 
